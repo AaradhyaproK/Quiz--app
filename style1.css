@@ -1,0 +1,192 @@
+.content {
+    margin-top: 15px;
+    }
+    .header {
+    padding: 15px;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    }
+    .left-title {
+    width: 80px;
+    color: #fff;
+    font-size: 18px;
+    float: left;
+    }
+    .right-title {
+    width: 150px;
+    text-align: right;
+    float: right;
+    color: #fff;
+    }
+    .quiz-body {
+    margin-top: 15px;
+    padding-bottom: 50px;
+    }
+    .option-block-container {
+    margin-top: 20px;
+    max-width: 420px;
+    }
+    .option-block {
+    padding: 10px;
+    background: aliceblue;
+    border: 1px solid #84c5fe;
+    margin-bottom: 10px;
+    cursor: pointer;
+    }
+    .result-question {
+    font-weight: bold;
+    }
+    .c-wrong {
+    margin-left: 20px;
+    color: #ff0000;
+    }
+    .c-correct {
+    margin-left: 20px;
+    color: green;
+    }
+    .last-row {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    }
+    .res-header {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    }
+    *{
+        margin: 0;
+        font-family:arial;
+        border:border-box;
+        
+    }
+    .navbar{
+        background-color:#424b7e;
+        display: flex;
+        
+        
+    }
+    .pannel{
+        height: 40px;
+        display: flex;
+        background-color:rgba(255, 255, 255, 0.3) ;
+        color: white;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .name{
+        color: white;
+        padding-top: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 60px;
+        color: #ffffff;
+        
+        text-transform:uppercase;
+        
+        
+    }
+    .contact{
+        border: 1px solid transparent;
+    }
+    
+    .gmail{
+        display: flex;
+        align-items: first baseline;
+        width: 50px;
+        color:rgb(0, 0, 0);
+        padding-left: 10px;
+    
+    }
+    
+    
+    .gmail a{
+         padding-left: 10px;
+         padding-right: 10px;
+         text-decoration: none;
+         color: rgb(0, 0, 0);
+         width: 50px;
+    }
+    .home{
+        border: 1px solid transparent;
+        
+    }
+    
+    
+    
+    .home1{
+        display: flex;
+        align-items: first baseline;
+        width: 50px;
+        color:rgb(0, 0, 0);
+        padding-left: 10px;
+    }
+    .home1 a{
+        padding-left: 10px;
+        padding-right: 10px;
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+        width: 50px;
+    }
+    
+    .fees{
+        
+        display: flex;
+        align-items: first baseline;
+        color:rgb(0, 0, 0);
+        padding: 5px;
+    }
+    .fees a{
+        justify-content: center;
+        display: flex;
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+        
+        align-items: center;
+    }
+    
+    .img{
+        background-color:rgb(80, 76, 76);
+        display: flex;
+        padding-bottom: 50px;
+       
+    
+    }
+    .sec{
+        background-color: #ffffff;
+        height: 100px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        justify-content: center;
+    }
+    .eng{
+        display: flex;
+        height: 50px;
+        width: 150px;
+        background-color: black;
+        margin:20px;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .eng a{
+        
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+    }
+    
+    
+    footer {
+        background-color: #2f2e2e;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        color: #ffffff;
+    }
+    
+    
